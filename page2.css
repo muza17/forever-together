@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: Century Gothic; */
+    text-shadow: 1px 1px 1px grey;
+}
+.navbar{
+    height: 90px;
+    width: 100%;
+    background-color: #1EAE98;
+    display: flex;  
+}
+.Forever-together{
+    margin-left: 30px;
+    margin-top: 22px;
+    font-family: Harlow Solid;
+    color: #fff;
+    font-size: 25px;
+}
+.line{
+    height: 70px;
+    width: 6px;
+    background-color: #fff;
+    border-radius: 3px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.menu{
+    color: #fff;
+    font-size: 25px;
+    padding: 30px 40px;
+    font-family: Century Gothic;
+}
+.menu:hover{
+    background-color: #fff;
+    color: #1EAE98;
+
+}
+.user-icon img{
+    height: 60px;
+    float: right;
+    /* margin-right: 30px; */
+    margin-top: 14px;
+}
+.frrow{
+    height: 600px;
+    width: 100%;
+    background-image: url(Img/melina-kiefer-f7Af8eeQue0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -960px;
+    position: relative;
+}
+.whitebox{
+    height: 90%;
+    width: 70%;
+    margin: auto;
+    background-color: #fff;
+    opacity: 0.3;
+}
+.texts{
+    position: absolute;
+    text-align: center;
+    margin-top: -400px;
+    width: 100%;
+}
+.texts h1{
+    color: #fff;
+    font-size: 75px;
+    font-family: Century Gothic;
+    text-shadow: 2px 2px 5px grey;
+}
+.scrow{
+    margin: 80px 45px;
+    
+    /* background-color: antiquewhite; */
+    height: 755px;
+    /* width: 100%; */
+}
+.pic1 img{
+    height: 500px;
+    width: 70%;
+    /* z-index: -1; */
+}
+.corner4{
+    width: 45%;
+    padding: 15px 30px;
+    background-color:#1EAE98;
+    margin-top: -486px;
+    margin-left: 400px;
+    /* z-index: 0; */
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    font-family: Century Gothic;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    box-shadow: 3px 3px 5px #333;
+}
+/* .corner3{
+    width: 70px;
+    
+} */
+.whitebox2{
+    height:350px;
+    width: 70%;
+    background-color: rgb(223, 222, 222);
+    opacity: 0.9;
+    margin-left: 300px;
+    position: absolute;
+    margin-top: -100px;
+    box-shadow: 3px 3px 7px #333;
+}
+.textbox{
+    position: absolute;
+    text-align: center;
+    margin-left: 413px;
+    font-size:14px ;
+    margin-top: -39px;
+    font-family: Century Gothic;
+    font-weight: 550;
+    color: #333;
+}
+.corner3{
+    width: 0px;
+    height: 0px;
+    border-top: 20px solid transparent;
+    
+    border-right: 15px solid #9D7554;
+    border-bottom:20px solid transparent;
+    float: right;
+}
+.thirdrow{
+    height:670px;
+    /* width: 100%; */
+    background-color: antiquewhite;
+    margin-top: 40px;
+    margin-right: 25px;
+    margin-bottom: 40px;
+}
+.bluebox{
+    height:570px;
+    width: 66%;
+    background-color: #1EAE98;
+    color: #fff;
+    text-align: center;
+    box-shadow: 2px 2px 6px #333;
+    
+}
+.textbox2{
+    color: #fff;
+    text-align: center;
+    margin-top: 184px;
+    margin-left: 60px;
+    font-size: 15px;
+    font-family: Century Gothic;
+    font-weight: 550;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    position: absolute;
+}
+.corner4-2{
+    width: 45%;
+    padding: 15px 30px;
+    background-color:rgb(223, 222, 222);
+    margin-top: -540px;
+    margin-left: 400px;
+    /* z-index: 0; */
+    position: absolute;
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+    font-family: Century Gothic;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    box-shadow: 3px 3px 5px #333;
+}
+.image1 img{
+    width: 270px;
+    height:400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -460px;
+    float: right;
+    box-shadow: 2px 2px 6px #333;
+}
+.image2 img{
+    width: 417px;
+    height: 270px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -172px;
+    margin-left: 986px;
+    box-shadow: 2px 2px 6px #333;
+}
+.image3 img{
+    width: 417px;
+    height: 270px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 919px;
+    margin-top:-518px;
+    position: absolute;
+    box-shadow: 2px 2px 6px #333;
+}
+.fourthrow{
+    padding-top: 50px;
+}
+.fourthrow h2{
+    color: #333;
+    font-size: 25px;
+    font-family: Century Gothic;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-shadow: 2px 2px 3px grey;
+}
+.rectangle1{
+    width: 388px;
+    float: right;
+    height: 59px;
+    background-color:#1EAE98;
+    margin-top: -59px;
+}
+.text1{
+    text-align: center;
+    padding-top: 60px;
+    font-family: Century Gothic;
+    font-size: 18px;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+    font-weight: 500;
+}
+.rectangle2{
+    height: 461px;
+    width: 59px;
+    margin-top: -168px;
+    background-color: #1EAE98;
+    float: right;
+}
+.rectangle3{
+    height: 59px;
+    width: 1110px;
+    background-color: #1EAE98;
+    float: right;
+}
+.text2{
+    font-family: Segoe Script;
+    font-size: 14px;
+    font-weight: 100;
+    padding-top: 70px;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    margin-left: 400px;
+    
+}
+.author{
+    font-family: Segoe Script;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 35px;
+    margin-left: 1240px;
+    padding-bottom: 35px;
+}
+.cubes img{
+    height: 330px;
+    width:auto;
+    margin-top: -206px;
+
+}

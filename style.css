@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Century Gothic;
+    text-shadow: 1px 1px 1px grey;
+}
+body{
+    background-image: url(/Img/mads-schmidt-rasmussen-xfngap_DToE-unsplash.jpg);
+    background-position-y: -700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page1{
+    position: relative;
+}
+.whiterow{
+    height: 345px;
+    width: 100%;
+    background-color: #fff;
+    opacity: 0.6;
+    margin-top: 170px;
+}
+.mainrow{
+    margin-top: -325px;
+    position: absolute;
+    width: 100%;
+    font-family: 'oxygen',sans-serif;
+
+}
+.mainrow h3{
+    text-align: center;
+    
+    font-size: 55px;
+    font-family: 'Pacifico';
+    font-weight: 300;
+}
+.text-forms{
+    display: flex;
+    /* width: 90%;
+    margin: auto; */
+    padding-top: 50px;
+
+}.e-mail{
+    display: flex;
+}
+.e-mail input{
+    display: inline-block;
+    height: 50px;
+    width: 500px;
+    /* border: 2px solid black; */
+    border: none;
+    border-radius: 8px;
+    /* text-align: center; */
+    margin-left: 100px;
+    padding-left: 10px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    
+}
+.e-mail input:focus{
+    outline: 0;
+}
+.line{
+    height: 40px;
+    width: 2px;
+    background-color: black;
+    margin-top: 5px;
+    margin-left:-150px;
+    margin-right: 18px;
+}
+.e-mail select{
+    display: inline-block;
+    height: 50px;
+    border: none;
+    border-radius: 8px;
+
+}
+.text {
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+      
+}
+.checkbox span{
+    font-size: 10px;
+    
+}
+.buttons{
+    display: flex;
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    margin-left: 160px;
+}
+
+
+.sign-in:hover{
+    background-color: #fff;
+    color: #39A6A3;
+    font-size: 16px;
+    box-shadow: 2px 2px 5px grey ;
+}
+.sign-in {
+    /* height: 40px; */
+    width: 160px;
+    margin-left: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #fff ;
+    background-color: #39A6A3;
+    border: 0;
+    text-align: center;
+    padding: 10px 0;
+    color: #fff;
+}
+.ab:hover{
+    /* background-color: #fff; */
+    color: #39A6A3;
+    font-size: 16px;
+    /* box-shadow: 2px 2px 5px grey ; */
+
+}
+
+   
